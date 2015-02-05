@@ -1,0 +1,24 @@
+D:\Projects\Learning\FeedScanAlgo\FeedScanAlgo\bin\Debug\FeedScanAlgo.exe
+D:\Projects\Learning\FeedScanAlgo\FeedScanAlgo\bin\Debug\FeedScanAlgo.pdb
+D:\Projects\Learning\FeedScanAlgo\FeedScanAlgo\obj\x86\Debug\FeedScanAlgo.Form1.resources
+D:\Projects\Learning\FeedScanAlgo\FeedScanAlgo\obj\x86\Debug\FeedScanAlgo.Properties.Resources.resources
+D:\Projects\Learning\FeedScanAlgo\FeedScanAlgo\obj\x86\Debug\FeedScanAlgo.csproj.GenerateResource.Cache
+D:\Projects\Learning\FeedScanAlgo\FeedScanAlgo\obj\x86\Debug\FeedScanAlgo.exe
+D:\Projects\Learning\FeedScanAlgo\FeedScanAlgo\obj\x86\Debug\FeedScanAlgo.pdb
+D:\Tradecore\Projects\Deep Liquidity\FeedScanAlgo v0.3\FeedScanAlgo\obj\x86\Debug\FeedScanAlgo.exe
+D:\Tradecore\Projects\Deep Liquidity\FeedScanAlgo v0.3\FeedScanAlgo\obj\x86\Debug\FeedScanAlgo.pdb
+D:\Tradecore\Projects\Deep Liquidity\FeedScanAlgo v0.3\FeedScanAlgo\bin\Debug\FeedScanAlgo.exe
+D:\Tradecore\Projects\Deep Liquidity\FeedScanAlgo v0.3\FeedScanAlgo\bin\Debug\FeedScanAlgo.pdb
+D:\Tradecore\Projects\Deep Liquidity\FeedScanAlgo v0.3\FeedScanAlgo\obj\x86\Debug\FeedScanAlgo.Form1.resources
+D:\Tradecore\Projects\Deep Liquidity\FeedScanAlgo v0.3\FeedScanAlgo\obj\x86\Debug\FeedScanAlgo.Properties.Resources.resources
+D:\Tradecore\Projects\Deep Liquidity\FeedScanAlgo v0.3\FeedScanAlgo\obj\x86\Debug\FeedScanAlgo.csproj.GenerateResource.Cache
+D:\Tradecore\Projects\Deep Liquidity\FeedScanAlgo v0.3\FeedScanAlgo\obj\x86\Debug\FeedScanAlgo.Dashboard.resources
+D:\Tradecore\Projects\Deep Liquidity\FeedScanAlgo v0.4\FeedScanAlgo\bin\Debug\FeedScanAlgo.exe
+D:\Tradecore\Projects\Deep Liquidity\FeedScanAlgo v0.4\FeedScanAlgo\bin\Debug\FeedScanAlgo.pdb
+D:\Tradecore\Projects\Deep Liquidity\FeedScanAlgo v0.4\FeedScanAlgo\obj\x86\Debug\FeedScanAlgo.Dashboard.resources
+D:\Tradecore\Projects\Deep Liquidity\FeedScanAlgo v0.4\FeedScanAlgo\obj\x86\Debug\FeedScanAlgo.Form1.resources
+D:\Tradecore\Projects\Deep Liquidity\FeedScanAlgo v0.4\FeedScanAlgo\obj\x86\Debug\FeedScanAlgo.Properties.Resources.resources
+D:\Tradecore\Projects\Deep Liquidity\FeedScanAlgo v0.4\FeedScanAlgo\obj\x86\Debug\FeedScanAlgo.csproj.GenerateResource.Cache
+D:\Tradecore\Projects\Deep Liquidity\FeedScanAlgo v0.4\FeedScanAlgo\obj\x86\Debug\FeedScanAlgo.exe
+D:\Tradecore\Projects\Deep Liquidity\FeedScanAlgo v0.4\FeedScanAlgo\obj\x86\Debug\FeedScanAlgo.pdb
+D:\Tradecore\Projects\Deep Liquidity\FeedScanAlgo v0.4\FeedScanAlgo\obj\x86\Debug\FeedScanAlgo.csprojResolveAssemblyReference.cache
